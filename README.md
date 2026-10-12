@@ -5,7 +5,7 @@
 ##  Problem Statement
 Students often rely on internet connectivity and cloud-based AI tools to understand lecture notes and academic documents. Unreliable connectivity and limited data can make accessing these tools difficult.
 
-EduPocket AI aims to help students upload academic documents, ask questions about their content, and receive understandable explanations through offline document processing and locally available AI capabilities.
+OffliQ aims to help students upload academic documents, ask questions about their content, and receive understandable explanations through offline document processing and locally available AI capabilities.
 
 ##  Objectives
 - Enable students to access saved study materials offline.
